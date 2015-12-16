@@ -1,0 +1,2 @@
+NsLookup.NSLookupApp
+nslookup.NSLookup
